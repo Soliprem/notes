@@ -1,0 +1,9 @@
+# Fdb version 3
+["pdflatex"] 1651599727 "soli_list.bib" "soli_list.pdf" "soli_list" 1651599727
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1647844622 39911 2da6c67557ec033436fe5418a70a8a61 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1650563092 2924509 ea531092e9f0d42f8dda1b0504cdeb20 ""
+  "soli_list.aux" 1651599727 32 3985256e7290058c681f74d7a3565a19 ""
+  "soli_list.bib" 1651599555 150 657a90ee76fb590f4783f472e85bfe01 ""
+  (generated)
+  "soli_list.log"
+  "soli_list.pdf"
