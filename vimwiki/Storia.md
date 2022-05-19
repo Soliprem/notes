@@ -1,7 +1,4 @@
-[Storia 6 Maggio.md](Storia 6 Maggio.md)
-[Storia 14 Settembre 2021.md](Storia 14 Settembre 2021.md)
-[Storia 19 Aprile.md](Storia 19 Aprile.md)
-[Storia 20 Settembre.md](Storia 20 Settembre.md)
-[Storia 22 Settembre 2021.md](Storia 22 Settembre 2021.md)
-[Storia 28 Aprile 2021.md](Storia 28 Aprile 2021.md)
-[La sinistra storica.md](La sinistra storica.md)
+# Storia
+- [WW2](WW2)  
+- [Secondo_Dopoguerra](Secondo_Dopoguerra)
+- [Guerra_Fredda](Guerra_Fredda)

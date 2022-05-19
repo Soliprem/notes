@@ -1,5 +1,0 @@
-[0] Config.pm:307> INFO - This is Biber 2.17
-[0] Config.pm:310> INFO - Logfile is 'soli_list.bib.blg'
-[49] biber:340> INFO - === mar mag  3, 2022, 19:42:19
-[115] Utils.pm:409> ERROR - Cannot find 'soli_list.bib.bcf'!
-[115] Biber.pm:135> INFO - ERRORS: 1

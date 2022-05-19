@@ -1,8 +1,4 @@
-[Kant frasi.md](Kant frasi.md)
-[Filosofia 26.4.2021.md](Filosofia 26.4.2021.md)
-[Hegel.md](Hegel.md)
-[Anti Hegeliani, introduzione.md](Anti Hegeliani, introduzione.md)
-[Filosofia 28 Aprile 2021.md](Filosofia 28 Aprile 2021.md)
-[Ragione osservativa vs Strumentale.md](Ragione osservativa vs Strumentale.md)
-[Schopenhauer.md](Schopenhauer.md)
-[filosofia.md](filosofia.md)
+# Filosofia
+[Heidegger](Heidegger)
+[Nietzsche](Nietzsche)
+[Freud](Freud)
