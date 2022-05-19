@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.5.19)  19 MAY 2022 13:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.5.15)  19 MAY 2022 22:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,9 +23,26 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
 
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
 (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -33,33 +50,137 @@ Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 (/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-)
-(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count193
 )
 (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-
 (/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen139
+\Hy@linkcounter=\count193
+\Hy@pagecounter=\count194
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count195
+
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count196
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen140
+
+(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
+\Fld@menulength=\count197
+\Field@Width=\dimen141
+\Fld@charsize=\dimen142
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+
+(/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count198
+\c@Item=\count199
+\c@Hfootnote=\count266
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+
+(/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count267
+\c@bookmark@seq@number=\count268
+
+(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 12.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+)
 (/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count194
+\lrq@indent=\count270
 
 (/usr/share/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -67,66 +188,62 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip16
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-\c@tabx@nest=\count195
-\c@listtotal=\count196
-\c@listcount=\count197
-\c@liststart=\count198
-\c@liststop=\count199
-\c@citecount=\count266
-\c@citetotal=\count267
-\c@multicitecount=\count268
-\c@multicitetotal=\count269
-\c@instcount=\count270
-\c@maxnames=\count271
-\c@minnames=\count272
-\c@maxitems=\count273
-\c@minitems=\count274
-\c@citecounter=\count275
-\c@maxcitecounter=\count276
-\c@savedcitecounter=\count277
-\c@uniquelist=\count278
-\c@uniquename=\count279
-\c@refsection=\count280
-\c@refsegment=\count281
-\c@maxextratitle=\count282
-\c@maxextratitleyear=\count283
-\c@maxextraname=\count284
-\c@maxextradate=\count285
-\c@maxextraalpha=\count286
-\c@abbrvpenalty=\count287
-\c@highnamepenalty=\count288
-\c@lownamepenalty=\count289
-\c@maxparens=\count290
-\c@parenlevel=\count291
-\blx@tempcnta=\count292
-\blx@tempcntb=\count293
-\blx@tempcntc=\count294
-\c@blx@maxsection=\count295
-\c@blx@maxsegment@0=\count296
-\blx@notetype=\count297
-\blx@parenlevel@text=\count298
-\blx@parenlevel@foot=\count299
-\c@blx@sectionciteorder@0=\count300
-\blx@entrysetcounter=\count301
-\blx@biblioinstance=\count302
-\labelnumberwidth=\skip49
-\labelalphawidth=\skip50
-\biblabelsep=\skip51
-\bibitemsep=\skip52
-\bibnamesep=\skip53
-\bibinitsep=\skip54
-\bibparsep=\skip55
-\bibhang=\skip56
+\c@tabx@nest=\count271
+\c@listtotal=\count272
+\c@listcount=\count273
+\c@liststart=\count274
+\c@liststop=\count275
+\c@citecount=\count276
+\c@citetotal=\count277
+\c@multicitecount=\count278
+\c@multicitetotal=\count279
+\c@instcount=\count280
+\c@maxnames=\count281
+\c@minnames=\count282
+\c@maxitems=\count283
+\c@minitems=\count284
+\c@citecounter=\count285
+\c@maxcitecounter=\count286
+\c@savedcitecounter=\count287
+\c@uniquelist=\count288
+\c@uniquename=\count289
+\c@refsection=\count290
+\c@refsegment=\count291
+\c@maxextratitle=\count292
+\c@maxextratitleyear=\count293
+\c@maxextraname=\count294
+\c@maxextradate=\count295
+\c@maxextraalpha=\count296
+\c@abbrvpenalty=\count297
+\c@highnamepenalty=\count298
+\c@lownamepenalty=\count299
+\c@maxparens=\count300
+\c@parenlevel=\count301
+\blx@tempcnta=\count302
+\blx@tempcntb=\count303
+\blx@tempcntc=\count304
+\c@blx@maxsection=\count305
+\c@blx@maxsegment@0=\count306
+\blx@notetype=\count307
+\blx@parenlevel@text=\count308
+\blx@parenlevel@foot=\count309
+\c@blx@sectionciteorder@0=\count310
+\blx@entrysetcounter=\count311
+\blx@biblioinstance=\count312
+\labelnumberwidth=\skip50
+\labelalphawidth=\skip51
+\biblabelsep=\skip52
+\bibitemsep=\skip53
+\bibnamesep=\skip54
+\bibinitsep=\skip55
+\bibparsep=\skip56
+\bibhang=\skip57
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language87
-\c@mincomprange=\count303
-\c@maxcomprange=\count304
-\c@mincompwidth=\count305
+\c@mincomprange=\count313
+\c@maxcomprange=\count314
+\c@mincompwidth=\count315
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -135,88 +252,88 @@ File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count306
-\c@savedafterword=\count307
-\c@annotator=\count308
-\c@savedannotator=\count309
-\c@author=\count310
-\c@savedauthor=\count311
-\c@bookauthor=\count312
-\c@savedbookauthor=\count313
-\c@commentator=\count314
-\c@savedcommentator=\count315
-\c@editor=\count316
-\c@savededitor=\count317
-\c@editora=\count318
-\c@savededitora=\count319
-\c@editorb=\count320
-\c@savededitorb=\count321
-\c@editorc=\count322
-\c@savededitorc=\count323
-\c@foreword=\count324
-\c@savedforeword=\count325
-\c@holder=\count326
-\c@savedholder=\count327
-\c@introduction=\count328
-\c@savedintroduction=\count329
-\c@namea=\count330
-\c@savednamea=\count331
-\c@nameb=\count332
-\c@savednameb=\count333
-\c@namec=\count334
-\c@savednamec=\count335
-\c@translator=\count336
-\c@savedtranslator=\count337
-\c@shortauthor=\count338
-\c@savedshortauthor=\count339
-\c@shorteditor=\count340
-\c@savedshorteditor=\count341
-\c@labelname=\count342
-\c@savedlabelname=\count343
-\c@institution=\count344
-\c@savedinstitution=\count345
-\c@lista=\count346
-\c@savedlista=\count347
-\c@listb=\count348
-\c@savedlistb=\count349
-\c@listc=\count350
-\c@savedlistc=\count351
-\c@listd=\count352
-\c@savedlistd=\count353
-\c@liste=\count354
-\c@savedliste=\count355
-\c@listf=\count356
-\c@savedlistf=\count357
-\c@location=\count358
-\c@savedlocation=\count359
-\c@organization=\count360
-\c@savedorganization=\count361
-\c@origlocation=\count362
-\c@savedoriglocation=\count363
-\c@origpublisher=\count364
-\c@savedorigpublisher=\count365
-\c@publisher=\count366
-\c@savedpublisher=\count367
-\c@language=\count368
-\c@savedlanguage=\count369
-\c@origlanguage=\count370
-\c@savedoriglanguage=\count371
-\c@pageref=\count372
-\c@savedpageref=\count373
-\shorthandwidth=\skip57
-\shortjournalwidth=\skip58
-\shortserieswidth=\skip59
-\shorttitlewidth=\skip60
-\shortauthorwidth=\skip61
-\shorteditorwidth=\skip62
-\locallabelnumberwidth=\skip63
-\locallabelalphawidth=\skip64
-\localshorthandwidth=\skip65
-\localshortjournalwidth=\skip66
-\localshortserieswidth=\skip67
-\localshorttitlewidth=\skip68
-\localshortauthorwidth=\skip69
-\localshorteditorwidth=\skip70
+\c@afterword=\count316
+\c@savedafterword=\count317
+\c@annotator=\count318
+\c@savedannotator=\count319
+\c@author=\count320
+\c@savedauthor=\count321
+\c@bookauthor=\count322
+\c@savedbookauthor=\count323
+\c@commentator=\count324
+\c@savedcommentator=\count325
+\c@editor=\count326
+\c@savededitor=\count327
+\c@editora=\count328
+\c@savededitora=\count329
+\c@editorb=\count330
+\c@savededitorb=\count331
+\c@editorc=\count332
+\c@savededitorc=\count333
+\c@foreword=\count334
+\c@savedforeword=\count335
+\c@holder=\count336
+\c@savedholder=\count337
+\c@introduction=\count338
+\c@savedintroduction=\count339
+\c@namea=\count340
+\c@savednamea=\count341
+\c@nameb=\count342
+\c@savednameb=\count343
+\c@namec=\count344
+\c@savednamec=\count345
+\c@translator=\count346
+\c@savedtranslator=\count347
+\c@shortauthor=\count348
+\c@savedshortauthor=\count349
+\c@shorteditor=\count350
+\c@savedshorteditor=\count351
+\c@labelname=\count352
+\c@savedlabelname=\count353
+\c@institution=\count354
+\c@savedinstitution=\count355
+\c@lista=\count356
+\c@savedlista=\count357
+\c@listb=\count358
+\c@savedlistb=\count359
+\c@listc=\count360
+\c@savedlistc=\count361
+\c@listd=\count362
+\c@savedlistd=\count363
+\c@liste=\count364
+\c@savedliste=\count365
+\c@listf=\count366
+\c@savedlistf=\count367
+\c@location=\count368
+\c@savedlocation=\count369
+\c@organization=\count370
+\c@savedorganization=\count371
+\c@origlocation=\count372
+\c@savedoriglocation=\count373
+\c@origpublisher=\count374
+\c@savedorigpublisher=\count375
+\c@publisher=\count376
+\c@savedpublisher=\count377
+\c@language=\count378
+\c@savedlanguage=\count379
+\c@origlanguage=\count380
+\c@savedoriglanguage=\count381
+\c@pageref=\count382
+\c@savedpageref=\count383
+\shorthandwidth=\skip58
+\shortjournalwidth=\skip59
+\shortserieswidth=\skip60
+\shorttitlewidth=\skip61
+\shortauthorwidth=\skip62
+\shorteditorwidth=\skip63
+\locallabelnumberwidth=\skip64
+\locallabelalphawidth=\skip65
+\localshorthandwidth=\skip66
+\localshortjournalwidth=\skip67
+\localshortserieswidth=\skip68
+\localshorttitlewidth=\skip69
+\localshortauthorwidth=\skip70
+\localshorteditorwidth=\skip71
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -228,19 +345,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
-\c@textcitecount=\count374
-\c@textcitetotal=\count375
-\c@textcitemaxnames=\count376
-\c@biburlbigbreakpenalty=\count377
-\c@biburlbreakpenalty=\count378
-\c@biburlnumpenalty=\count379
-\c@biburlucpenalty=\count380
-\c@biburllcpenalty=\count381
+\c@textcitecount=\count384
+\c@textcitetotal=\count385
+\c@textcitemaxnames=\count386
+\c@biburlbigbreakpenalty=\count387
+\c@biburlbreakpenalty=\count388
+\c@biburlnumpenalty=\count389
+\c@biburlucpenalty=\count390
+\c@biburllcpenalty=\count391
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count382
+\c@smartand=\count392
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -252,8 +369,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count383
-\c@bbx:relatedtotal=\count384
+\c@bbx:relatedcount=\count393
+\c@bbx:relatedtotal=\count394
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -286,7 +403,7 @@ Package: expl3 2022-04-10 L3 programming layer (loader)
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count385
+\l__color_backend_stack_int=\count395
 \l__pdf_internal_box=\box50
 ))
 Package biblatex Info: ... and expl3
@@ -300,26 +417,65 @@ Package: xparse 2022-01-12 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 ))
-\@quotelevel=\count386
-\@quotereset=\count387
+\@quotelevel=\count396
+\@quotereset=\count397
 
 (./advancement_bad.aux)
 \openout1 = `advancement_bad.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count398
+\scratchdimen=\dimen143
+\scratchbox=\box51
+\nofMPsegments=\count399
+\nofMParguments=\count400
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count401
+\MPscratchDim=\dimen144
+\MPnumerator=\count402
+\makeMPintoPDFobject=\count403
+\everyMPtoPDFconversion=\toks18
+)
+Package hyperref Info: Link coloring ON on input line 17.
+ (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count404
+)
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
+
+(./advancement_bad.out) (./advancement_bad.out)
+\@outlinefile=\write4
+\openout4 = `advancement_bad.out'.
+
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -335,39 +491,50 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'advancement_bad.bbl' found.
 
 (./advancement_bad.bbl)
-Package biblatex Info: Reference section=0 on input line 8.
-Package biblatex Info: Reference segment=0 on input line 8.
+Package biblatex Info: Reference section=0 on input line 17.
+Package biblatex Info: Reference segment=0 on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 9.
+(Font)              <12> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 9.
+(Font)              <8> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 9.
+(Font)              <6> on input line 19.
+ (./advancement_bad.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write5
+\openout5 = `advancement_bad.toc'.
+
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(./advancement_bad.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] (./advancement_bad
+.aux)
+Package rerunfilecheck Info: File `advancement_bad.out' has not changed.
+(rerunfilecheck)             Checksum: 943383F9FA398C0395D346641DACDAF0;2613.
 Package logreq Info: Writing requests to 'advancement_bad.run.xml'.
 \openout1 = `advancement_bad.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8540 strings out of 478238
- 167675 string characters out of 5850456
- 868686 words of memory out of 5000000
- 26756 multiletter control sequences out of 15000+600000
- 473552 words of font info for 42 fonts, out of 8000000 for 9000
+ 15408 strings out of 478238
+ 272579 string characters out of 5850456
+ 981112 words of memory out of 5000000
+ 33500 multiletter control sequences out of 15000+600000
+ 473860 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,68p,781b,1423s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i10.pfb>
-Output written on advancement_bad.pdf (1 page, 66433 bytes).
+ 60i,6n,68p,781b,1429s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on advancement_bad.pdf (3 pages, 97844 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
