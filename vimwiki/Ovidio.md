@@ -17,9 +17,10 @@ Le Metamorfosi. (1-8 d.C.)|=continua trasformazione. contrapposta alla CONSTANTI
  |   |=opposto al mito degli androgini
  |->sfondo filosofco.
 
-Bandito (8 d.C.) (si pensa) ufficialmente per "ars amatoria" che trttava di adulterio dopo l leggi del matrimonio giuliano, 
+Bandito (8 d.C.) (si pensa) ufficialmente per "ars amatoria" che trattava di adulterio dopo le leggi del matrimonio giuliano, 
 ma distanza fra pubblicazioni e bando indica personal matters Augusti.
 Hartman suggerisce che non venne invece bandito, e che fosse tutto frutto della sua immaginazione: egli conosceva infatti la geografiadi Tomi (Metamorfosi)
+Potenziale motivo per bando == conflitto fra intellettuale e potere: leggerezza di continua metamorfosi != Interesse Augusteo per la stabilità
 
 Tristia (9-12 d.C.)
 Muore scrivendo "epistule ex ponto", lettere che chiedevano ad amici di farlo tornare
@@ -30,8 +31,13 @@ Muore scrivendo "epistule ex ponto", lettere che chiedevano ad amici di farlo to
 
 Autobiografia:
 
-tristia, IV, 10. Autobiografia (collegamento con Montale)
+[tristia, IV, 10. Autobiografia](tristia_autobiografia_4_10_Ovidio) (collegamento con Montale)
 
+
+Opere:
+
+[L'arte dell'inganno](arte_inganno_Ovidio)
+[Eroides](Eroides)
 
 08:21 9/16/2021
 

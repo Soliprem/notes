@@ -16,7 +16,5 @@ L'oratore è sincero
 
 #### Collegamenti con l'italiano
 
- [Leopardi](Leopardi)							     Quintiliano   
- ------------------------------			----------------------
-concezione di vico del tempo      		concetto di decadenza dei costumi
-
+| [Leopardi](Leopardi)         | Quintiliano                       |
+| concezione di vico del tempo | concetto di decadenza dei costumi |
