@@ -1,2 +1,0 @@
-# Dizionario Rapido
-[Antieroe](Antieroe)
