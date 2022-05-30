@@ -1,1 +1,0 @@
-[Geologia](Geologia)
