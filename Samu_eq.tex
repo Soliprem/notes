@@ -1,0 +1,40 @@
+\documentclass{article}
+\author{Francesco Prem Solidoro, per conto di Samuele Marro}
+\title{Bargaining made Instant}
+\begin{document}
+\maketitle
+Obiettivo: avere una forma di bargaining tra Alice e Bob dove la divisione del valore aggiunto è equa. In particolare si ottiene che l'utilità di ogni parte è massima quando dice la verità sul prezzo
+
+Per esempio, la variante del quadratic bargaining assume utilità lineare: Alice ha utilità ax, Bob ha utilità bx, dove x è la quantità di beni
+
+Alice compra s beni e trasferisce 
+$$1/2 * s^2 dollari a Bob$$
+
+Bob compra t beni e trasferisce 
+$$1/2 * t^2$$
+dollari ad Alice
+
+Alice ha utilità 
+$$a(s - t) - 1/2 s^2 + 1/2 t^2$$
+L'unico parametro che Alice può controllare è s, quindi derivando l'utilità per s abbiamo
+$$d/ds = a - s$$
+La derivata è 0 per s = a, e dato che è una parabola al contrario è un massimo globale
+
+Per Bob è simmetrico, la sua utilità è massima quando t = b
+
+L'utilità di Alice è quindi 
+$$a(a - b) - 1/2 a^2 + 1/2 b^2 =$$ 
+$$a^2 - ab - 1/2 a^2 + 1/2 b^2 =$$
+$$1/2 a^2 + 1/2 b^2 - ab$$ 
+$$= 1/2 (a - b)^2$$
+
+Bob simmetrico, esce 
+
+$$1/2 (b - a)^2$$
+
+Entrambe le parti ottengono la stessa utilità, e in nessun momento hanno dovuto essere onesti
+
+Due note:
+- Sto lavorando per estenderlo supponendo che l'utilità w.r.t. la quantità di beni non è lineare. Per il momento ho fatto utilità logaritmica e alcune monomiali
+- La scala dell'unità di misura di a e b non è fissa: variandola cambia la quantità di beni trasferiti (se il prezzo è $/kg o $/t cambia). In altre parole, l'algoritmo non è scale-invariant: è possibile scegliere la scala tale che il trasferimento di beni sia pari ai beni in magazzino di Alice o di Bob (in base a chi trasferisce al netto)
+\end{document}
