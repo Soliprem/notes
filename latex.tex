@@ -1,0 +1,62 @@
+\documentclass[12pt]{article}
+
+\author{Francesco Prem Solidoro}
+\title{learning {\LaTeX}}
+
+\usepackage[backend=biber]{biblatex}
+\addbibresource{soli_list.bib}
+\begin{document}
+\maketitle
+
+\section{Introduction}
+This is just a test \\ hehe
+This is a new line in my editor
+
+I'll be talking about lists in section \ref{list}
+
+You have to return twice to actually skip a line
+
+This is normal text \textbf {This is bold text}
+
+
+mental illness is endemic to capitalist systems.\cite{Cap_Realism}\\
+complex stuff is complex \cite{Complexity}\\
+Zizek is fucking based \cite{Perverted_Guide_Global_politics}\\
+Saramago is a pretty awesome lad \cite{Blindness_Saramago}\\
+as \textcite{Complexity} says, there's no such thing as a simple mind.
+
+\subsection{}
+\textit{This is italics}
+
+\emph{This is emphatic. NO I'M NOT ITALIC}
+
+\underline{helo, meesa underline}
+
+"This is in quotations"
+
+
+``This is in proper quotations''
+
+``This is in proper quotations"
+
+'this is it with single quotes'
+
+`this is it with proper single quotes'
+\section{lists\label{list}}
+\begin{itemize}
+	\item item 1
+	\item item 2
+		\begin{itemize}
+			\item item 2.1
+			\item item 2.2
+		\end{itemize}
+	\item item 3
+\end{itemize}
+\begin{enumerate}
+	\item Bread
+	\item eggs
+	\item milk
+	\item cream
+\end{enumerate}
+\printbibliography
+\end{document}

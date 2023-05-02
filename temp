@@ -1,0 +1,93 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.014  000.014: --- NVIM STARTING ---
+000.437  000.423: locale set
+000.898  000.461: inits 1
+000.918  000.020: window checked
+000.985  000.068: parsing arguments
+004.420  003.435: expanding arguments
+004.447  000.027: inits 2
+005.092  000.644: init highlight
+005.094  000.002: waiting for UI
+006.313  001.219: done waiting for UI
+006.349  000.036: init screen for UI
+006.381  000.031: init default mappings
+006.421  000.041: init default autocommands
+007.173  000.088  000.088: sourcing /usr/share/nvim/runtime/ftplugin.vim
+007.293  000.048  000.048: sourcing /usr/share/nvim/runtime/indent.vim
+007.361  000.017  000.017: sourcing /usr/share/nvim/archlinux.vim
+007.366  000.046  000.029: sourcing /etc/xdg/nvim/sysinit.vim
+036.976  006.711  006.711: sourcing /home/soliprem/.config/nvim/colors/default_theme.lua
+045.015  000.022  000.022: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/which-key.nvim/plugin/which-key.vim
+050.256  042.864  036.131: sourcing /home/soliprem/.config/nvim/init.lua
+050.272  000.805: sourcing vimrc file(s)
+051.148  000.045  000.045: sourcing /usr/share/vim/vimfiles/ftdetect/lf.vim
+051.278  000.368  000.322: sourcing /usr/share/nvim/runtime/filetype.lua
+051.326  000.022  000.022: sourcing /usr/share/nvim/runtime/filetype.vim
+051.567  000.118  000.118: sourcing /usr/share/nvim/runtime/syntax/synload.vim
+051.692  000.331  000.212: sourcing /usr/share/nvim/runtime/syntax/syntax.vim
+052.247  000.042  000.042: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/which-key.nvim/plugin/which-key.vim
+052.597  000.023  000.023: sourcing /usr/share/nvim/runtime/plugin/gzip.vim
+052.629  000.014  000.014: sourcing /usr/share/nvim/runtime/plugin/health.vim
+052.697  000.053  000.053: sourcing /usr/share/nvim/runtime/plugin/man.vim
+052.731  000.017  000.017: sourcing /usr/share/nvim/runtime/plugin/matchit.vim
+052.951  000.204  000.204: sourcing /usr/share/nvim/runtime/plugin/matchparen.vim
+052.998  000.026  000.026: sourcing /usr/share/nvim/runtime/plugin/netrwPlugin.vim
+053.028  000.013  000.013: sourcing /usr/share/nvim/runtime/plugin/rplugin.vim
+053.129  000.085  000.085: sourcing /usr/share/nvim/runtime/plugin/shada.vim
+053.182  000.032  000.032: sourcing /usr/share/nvim/runtime/plugin/spellfile.vim
+053.223  000.021  000.021: sourcing /usr/share/nvim/runtime/plugin/tarPlugin.vim
+053.255  000.014  000.014: sourcing /usr/share/nvim/runtime/plugin/tohtml.vim
+053.297  000.025  000.025: sourcing /usr/share/nvim/runtime/plugin/tutor.vim
+053.337  000.021  000.021: sourcing /usr/share/nvim/runtime/plugin/zipPlugin.vim
+054.248  000.800  000.800: sourcing /usr/share/vim/vimfiles/plugin/fzf.vim
+054.389  000.094  000.094: sourcing /usr/share/vim/vimfiles/plugin/redact_pass.vim
+054.783  002.307: loading rtp plugins
+056.407  000.479  000.479: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/start/vimwiki/autoload/vimwiki/vars.vim
+058.066  000.126  000.126: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/start/vimwiki/autoload/vimwiki/u.vim
+061.374  006.337  005.732: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/start/vimwiki/plugin/vimwiki.vim
+061.649  000.529: loading packages
+061.654  000.005: loading after plugins
+061.674  000.021: inits 3
+063.922  002.248: reading ShaDa
+073.058  000.103  000.103: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/FixCursorHold.nvim/plugin/fix_cursorhold_nvim.vim
+073.453  000.060  000.060: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/nvim-colorizer.lua/plugin/colorizer.vim
+079.181  002.651  002.651: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/nvim-treesitter/plugin/nvim-treesitter.lua
+083.286  000.458  000.458: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/nvim-ts-autotag/plugin/nvim-ts-autotag.vim
+084.909  001.280  001.280: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/nvim-treesitter-textobjects/plugin/nvim-treesitter-textobjects.vim
+085.569  000.305  000.305: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/nvim-ts-rainbow/plugin/rainbow.vim
+086.440  000.366  000.366: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/nvim-ts-context-commentstring/plugin/ts_context_commentstring.vim
+086.884  000.043  000.043: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/indent-o-matic/plugin/indent-o-matic.vim
+089.498  000.749  000.749: sourcing /usr/share/nvim/runtime/scripts.vim
+089.757  000.079  000.079: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/nvim-treesitter/autoload/nvim_treesitter.vim
+091.673  000.309  000.309: sourcing /usr/share/nvim/runtime/autoload/provider/clipboard.vim
+092.976  000.689  000.689: sourcing /usr/share/nvim/runtime/scripts.vim
+094.391  000.639  000.639: sourcing /usr/share/nvim/runtime/autoload/dist/ft.vim
+095.251  000.076  000.076: sourcing /usr/share/nvim/runtime/ftplugin/initex.vim
+095.308  000.169  000.094: sourcing /usr/share/nvim/runtime/ftplugin/plaintex.vim
+095.370  000.273  000.103: sourcing /usr/share/nvim/runtime/ftplugin/tex.vim
+096.908  000.368  000.368: sourcing /usr/share/nvim/runtime/indent/tex.vim
+116.146  018.592  018.592: sourcing /usr/share/nvim/runtime/syntax/tex.vim
+117.591  000.075  000.075: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/plenary.nvim/plugin/plenary.vim
+365.155  274.193: opening buffers
+375.685  004.121  004.121: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/vim-wakatime/plugin/wakatime.vim
+377.676  008.400: BufEnter autocommands
+377.683  000.007: editing files in windows
+378.158  000.080  000.080: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/nvim-web-devicons/plugin/nvim-web-devicons.vim
+414.633  000.500  000.500: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/nvim-lspconfig/plugin/lspconfig.vim
+415.174  000.170  000.170: sourcing /home/soliprem/.local/share/nvim/site/pack/packer/opt/nvim-lsp-installer/plugin/nvim-lsp-installer.vim
+443.630  000.088  000.088: sourcing /usr/share/nvim/runtime/ftplugin/initex.vim
+443.699  000.191  000.103: sourcing /usr/share/nvim/runtime/ftplugin/plaintex.vim
+443.765  000.312  000.121: sourcing /usr/share/nvim/runtime/ftplugin/tex.vim
+445.451  000.343  000.343: sourcing /usr/share/nvim/runtime/indent/tex.vim
+464.474  018.251  018.251: sourcing /usr/share/nvim/runtime/syntax/tex.vim
+484.180  017.961  017.961: sourcing /usr/share/nvim/runtime/syntax/tex.vim
+525.876  110.577: VimEnter autocommands
+525.885  000.010: UIEnter autocommands
+525.891  000.006: before starting main loop
+1103.196  577.305: first screen update
+1103.204  000.007: --- NVIM STARTED ---
